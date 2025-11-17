@@ -12,14 +12,13 @@
   "configurable": true,
   "legacyIds": [],
 
-  "repository": "https://github.com/jonathanbond/companion-module-capture-visualiser",
-  "bugs": "https://github.com/jonathanbond/companion-module-capture-visualiser/issues",
-  "homepage": "https://github.com/jonathanbond/companion-module-capture-visualiser",
+  "repository": "https://github.com/visionmill/companion-module-capture-visualiser",
+  
 
   "maintainers": [
     {
       "name": "Jonathan Bond",
-      "email": "jonathan@example.com"
+      "email": "jonathan@visionmill.co.uk"
     }
   ],
 
